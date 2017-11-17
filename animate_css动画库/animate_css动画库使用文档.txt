@@ -1,0 +1,3 @@
+第一步:将animate.css库引入html文件中；
+第二步:在要加入动画效果的盒子上加一个类名animated；
+第三步:在js中加入(盒子.classList.add('动画类名');)；动画类名在animate.css文件中有很多
